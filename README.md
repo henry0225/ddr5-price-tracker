@@ -13,7 +13,7 @@ GitHub Actions (free daily cron)
   └─ scraper/run.py
        ├─ newegg.py  → HTTP GET, parse prices embedded in the page (reliable)
        └─ amazon.py  → headless browser, best-effort (Amazon blocks datacenter IPs)
-       └─ writes site/prices.json + appends site/history.json, commits back
+       └─ writes docs/prices.json + appends docs/history.json, commits back
 GitHub Pages (free static hosting)
   └─ docs/index.html → reads the JSON, shows cheapest + median + history chart
 ```
@@ -43,7 +43,7 @@ GitHub Pages (free static hosting)
 ```bash
 pip install -r requirements.txt
 python -m playwright install chromium   # only needed for Amazon
-python scraper/run.py                    # writes site/prices.json + history.json
+python scraper/run.py                    # writes docs/prices.json + history.json
 open docs/index.html
 ```
 
