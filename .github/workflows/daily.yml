@@ -30,6 +30,6 @@ jobs:
         run: |
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
-          git add site/prices.json site/history.json
+          git add docs/prices.json docs/history.json
           git diff --cached --quiet || git commit -m "prices: $(date -u +%F)"
           git push

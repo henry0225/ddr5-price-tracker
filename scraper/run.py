@@ -8,7 +8,7 @@ from pathlib import Path
 import newegg
 import browser
 
-SITE = Path(__file__).resolve().parent.parent / "site"
+SITE = Path(__file__).resolve().parent.parent / "docs"
 # newegg = reliable HTTP scrape; the rest are best-effort browser scrapes.
 SOURCES = {
     "newegg": newegg.fetch,

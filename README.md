@@ -15,7 +15,7 @@ GitHub Actions (free daily cron)
        └─ amazon.py  → headless browser, best-effort (Amazon blocks datacenter IPs)
        └─ writes site/prices.json + appends site/history.json, commits back
 GitHub Pages (free static hosting)
-  └─ site/index.html → reads the JSON, shows cheapest + median + history chart
+  └─ docs/index.html → reads the JSON, shows cheapest + median + history chart
 ```
 
 - **Newegg** is the reliable backbone: prices are server-rendered into the page, so
@@ -32,8 +32,9 @@ GitHub Pages (free static hosting)
    git init && git add . && git commit -m "init"
    gh repo create ddr5-price-tracker --public --source=. --push
    ```
-2. **Settings → Pages** → Source: *Deploy from a branch* → Branch `main`, folder `/site`.
-   Your site goes live at `https://<you>.github.io/ddr5-price-tracker/`.
+2. **Settings → Pages** → Source: *Deploy from a branch* → Branch `main`, folder `/docs`
+   (GitHub Pages only serves from `/` or `/docs`). Live at
+   `https://<you>.github.io/ddr5-price-tracker/`.
 3. **Actions tab** → run *Daily price scrape* once (`workflow_dispatch`) to populate data.
    After that it runs itself daily and commits fresh prices.
 
@@ -43,7 +44,7 @@ GitHub Pages (free static hosting)
 pip install -r requirements.txt
 python -m playwright install chromium   # only needed for Amazon
 python scraper/run.py                    # writes site/prices.json + history.json
-open site/index.html
+open docs/index.html
 ```
 
 ## Customize
