@@ -1,0 +1,73 @@
+{
+  "updated": "2026-07-21T04:49:39+00:00",
+  "unit": "USD, 32GB (2x16GB) DDR5 kit",
+  "sources": {
+    "newegg": {
+      "cheapest": 399.99,
+      "median": 503.99,
+      "count": 42,
+      "cheapest_title": "Team T-Force Vulcan ECO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model FLESD532G6400HC38JDC01",
+      "kits": [
+        {
+          "price": 399.99,
+          "title": "Team T-Force Vulcan ECO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model FLESD532G6400HC38JDC01"
+        },
+        {
+          "price": 404.99,
+          "title": "Patriot Viper Venom 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVV532G600C30K Compatible with AMD & Intel Gen14 Only"
+        },
+        {
+          "price": 419.99,
+          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module Black, for AMD EXPO TMXSAL1660830KWK"
+        },
+        {
+          "price": 419.99,
+          "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - BLACK (TMXFL1660830KWK)"
+        },
+        {
+          "price": 419.99,
+          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module White, for AMD EXPO TMXSAL1660830WWK"
+        },
+        {
+          "price": 438.97,
+          "title": "G.SKILL Flare X5 Series AMD EXPO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 Desktop Memory Model F5-6000J3636F16GX2-FX5"
+        },
+        {
+          "price": 459.99,
+          "title": "CORSAIR Vengeance 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMK32GX5M2E6000C36"
+        },
+        {
+          "price": 459.99,
+          "title": "CORSAIR Vengeance 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model CMK32GX5M2B6000C38"
+        },
+        {
+          "price": 467.99,
+          "title": "CORSAIR Vengeance 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5200 (PC5 41600) Desktop Memory Model CMK32GX5M2B5200C40"
+        },
+        {
+          "price": 469.99,
+          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6400MHz CL32 1.4V SK Hynix IC RGB Gaming Desktop Upgrade Memory Module Black, for AMD EXPO (TMXSAL1664832KWK)"
+        }
+      ]
+    },
+    "amazon": {
+      "cheapest": null,
+      "median": null,
+      "count": 0,
+      "kits": []
+    },
+    "microcenter": {
+      "cheapest": null,
+      "median": null,
+      "count": 0,
+      "kits": []
+    },
+    "bh": {
+      "cheapest": null,
+      "median": null,
+      "count": 0,
+      "kits": []
+    }
+  },
+  "best_price": 399.99
+}
