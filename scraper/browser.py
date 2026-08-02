@@ -13,6 +13,7 @@ Micro Center prices are also store-specific; without a selected store some items
 show no price, which the price fallback simply skips.
 """
 import re
+from urllib.parse import urljoin
 
 # Each site: search url, selectors to try (first hit wins), and a page-content
 # signature that means "blocked" -> return [].
@@ -42,7 +43,15 @@ SITES = {
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
-PRICE_RE = re.compile(r"[\d,]+\.\d{2}")
+# Prefer a $-prefixed price; else a bare NN.NN that is NOT a spec like "1.35V"
+# (voltage) or "5600MT" — i.e. not immediately followed by a letter.
+_DOLLAR = re.compile(r"\$\s*([\d,]+\.\d{2})")
+_BARE = re.compile(r"(?<![\d.])([\d,]+\.\d{2})(?![\dA-Za-z])")
+
+
+def _price(text):
+    m = _DOLLAR.search(text) or _BARE.search(text)
+    return float(m.group(1).replace(",", "")) if m else None
 
 
 def _first(card, selectors):
@@ -83,12 +92,21 @@ def fetch(site_key):
                 t = _first(card, cfg["title"])
                 pnode = _first(card, cfg["price"])
                 title = (t.inner_text().strip() if t else "")
-                blob = (pnode.inner_text() if pnode else "") or card.inner_text()
                 if not (re.search(r"32\s*GB", title, re.I) and re.search(r"DDR5", title, re.I)):
                     continue
-                m = PRICE_RE.search(blob)
-                if m:
-                    rows.append({"price": float(m.group(0).replace(",", "")), "title": title})
+                # Only trust the dedicated price node's text; fall back to card
+                # text but require a $ there so specs like "1.35V" can't be read
+                # as a price.
+                price = _price(pnode.inner_text()) if pnode else None
+                if price is None:
+                    m = _DOLLAR.search(card.inner_text())
+                    price = float(m.group(1).replace(",", "")) if m else None
+                if price is None:
+                    continue
+                link = card.query_selector("a[href]")
+                href = link.get_attribute("href") if link else None
+                url = urljoin(cfg["url"], href) if href else cfg["url"]
+                rows.append({"price": price, "title": title, "url": url})
         except Exception:
             return rows
         finally:

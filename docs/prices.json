@@ -1,102 +1,71 @@
 {
-  "updated": "2026-08-02T14:43:04+00:00",
+  "updated": "2026-08-02T20:25:15+00:00",
   "unit": "USD, 32GB (2x16GB) DDR5 kit",
   "sources": {
     "newegg": {
       "cheapest": 399.99,
-      "median": 489.99,
-      "count": 43,
+      "median": 485.55,
+      "count": 41,
       "cheapest_title": "Team T-Force Vulcan ECO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model FLESD532G6400HC38JDC01",
+      "cheapest_url": "https://www.newegg.com/team-group-t-force-vulcan-eco-32gb-2-x-16gb-ddr5-6400-pc5-51200-cas-latency-cl38-desktop-memory-silver/p/N82E16820985371",
       "kits": [
         {
           "price": 399.99,
-          "title": "Team T-Force Vulcan ECO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model FLESD532G6400HC38JDC01"
+          "title": "Team T-Force Vulcan ECO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model FLESD532G6400HC38JDC01",
+          "url": "https://www.newegg.com/team-group-t-force-vulcan-eco-32gb-2-x-16gb-ddr5-6400-pc5-51200-cas-latency-cl38-desktop-memory-silver/p/N82E16820985371"
         },
         {
           "price": 399.99,
-          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVVR532G600C36K Compatible with AMD / Intel Gen14 Only"
-        },
-        {
-          "price": 399.99,
-          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVVR532G600C36K Compatible with AMD / Intel Gen14 Only"
+          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVVR532G600C36K Compatible with AMD / Intel Gen14 Only",
+          "url": "https://www.newegg.com/patriot-memory-viper-venom-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-matte-black/p/N82E16820225310?Item=N82E16820225310&amp;cm_sp=SP-_-2975243-_-0-_-2-_-20-225-310-_-32gb ddr5 ram-_-32gb|ram-_-12"
         },
         {
           "price": 409.99,
-          "title": "Patriot Viper Venom 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVV532G600C30K Compatible with AMD & Intel Gen14 Only"
+          "title": "Patriot Viper Venom 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVV532G600C30K Compatible with AMD & Intel Gen14 Only",
+          "url": "https://www.newegg.com/patriot-memory-viper-venom-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-matte-black/p/N82E16820225334"
         },
         {
           "price": 409.99,
-          "title": "Patriot Viper Elite 5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 CL30(PC5 48000) Hynix Desktop Memory Model VEB532G6030KW Compatible with AMD & Intel Gen14 Only"
+          "title": "Patriot Memory Viper Venom 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model PVV532G640C32K, Compatible with Intel Gen14 Only",
+          "url": "https://www.newegg.com/patriot-memory-viper-venom-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/0RN-002U-004U1?Item=0RN-002U-004U1&amp;cm_sp=SP-_-2975243-_-0-_-2-_-0RN-002U-004U1-_-32gb ddr5 ram-_-32gb|ram-_-21"
+        },
+        {
+          "price": 409.99,
+          "title": "Patriot Viper Elite 5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 CL30(PC5 48000) Hynix Desktop Memory Model VEB532G6030KW Compatible with AMD & Intel Gen14 Only",
+          "url": "https://www.newegg.com/patriot-memory-viper-elite-5-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-desktop-memory-white/p/N82E16820225386"
         },
         {
           "price": 419.99,
-          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module Black, for AMD EXPO TMXSAL1660830KWK"
+          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module Black, for AMD EXPO TMXSAL1660830KWK",
+          "url": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory/p/0RN-00MB-000T5"
         },
         {
           "price": 419.99,
-          "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - WHITE (TMXFL1660830WWK)"
+          "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - WHITE (TMXFL1660830WWK)",
+          "url": "https://www.newegg.com/v-color-manta-xfinity-rgb-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory-white/p/0RN-00MB-000W3"
         },
         {
           "price": 419.99,
-          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module White, for AMD EXPO TMXSAL1660830WWK"
+          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module White, for AMD EXPO TMXSAL1660830WWK",
+          "url": "https://www.newegg.com/v-color-manta-xsky-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory-black/p/0RN-00MB-000W6"
         },
         {
           "price": 419.99,
-          "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - BLACK (TMXFL1660830KWK)"
+          "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - BLACK (TMXFL1660830KWK)",
+          "url": "https://www.newegg.com/v-color-manta-xfinity-rgb-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory-black/p/0RN-00MB-000W4"
         },
         {
           "price": 434.99,
-          "title": "Team T-CREATE CLASSIC 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model CTCCD532G5600HC46DC01"
+          "title": "Team T-CREATE CLASSIC 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model CTCCD532G5600HC46DC01",
+          "url": "https://www.newegg.com/team-group-t-create-classic-32gb-ddr5-5600-cas-latency-cl46-desktop-memory-black/p/N82E16820985008"
         }
       ]
     },
     "amazon": {
-      "cheapest": 1.35,
-      "median": 449.44,
-      "count": 16,
-      "cheapest_title": "CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) Up to 6000MHz CL36-44-44-96 1.35V AMD EXPO Intel XMP 3.0 Computer Memory \u2013 Grey (CMK32GX5M2E6000Z36)",
-      "kits": [
-        {
-          "price": 1.35,
-          "title": "CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) Up to 6000MHz CL36-44-44-96 1.35V AMD EXPO Intel XMP 3.0 Computer Memory \u2013 Grey (CMK32GX5M2E6000Z36)"
-        },
-        {
-          "price": 379.97,
-          "title": "Silicon Power DDR5 5600MT/s (PC5-44800) 32GB 1.1V Desktop Unbuffered DIMM SU032GBLVU560F02EC"
-        },
-        {
-          "price": 379.99,
-          "title": "PNY DDR5 32GB (2x16GB) 5600MHz CL46 Performance Desktop Memory Kit | Not Intel 15th Gen Compatible - PC5-44800, CL46, 1.1V, 288-Pin, RAM, Compatible: 5200MHz, 4800MHz - MD32GK2D5560046-TB"
-        },
-        {
-          "price": 419.99,
-          "title": "Lexar Thor Z RGB DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL38 DRAM 288-Pin UDIMM | Supports Intel XMP 3.0 & AMD EXPO On-die ECC, PMIC, 1.35V High-Performance PC Computer Memory for Gaming, AI"
-        },
-        {
-          "price": 429.99,
-          "title": "TEAMGROUP T-Force Vulcan DDR5 32GB (2x16GB) 6000MHz (PC5-48000) CL38 Desktop Memory Module Ram (Black) for Chipset 600 700 Series XMP 3.0 Ready - FLBD532G6000HC38ADC01"
-        },
-        {
-          "price": 429.99,
-          "title": "CORSAIR Vengeance DDR5 32GB (2 x 16GB) Up to 6000MHz CL38-44-44-96 1.35V Intel XMP 3.0 AMD EXPO Computer Desktop Memory \u2013 Gray"
-        },
-        {
-          "price": 434.99,
-          "title": "TEAMGROUP T-Create Classic 10L DDR5 32GB Kit (2 x 16GB) 5600MHz (PC5-44800) CL46 Intel XMP 3.0 & AMD EXPO Compatible Desktop Memory Module Ram - CTCCD532G5600HC46DC01"
-        },
-        {
-          "price": 448.99,
-          "title": "\u3010DDR5 RAM\u3011 GIGASTONE 32GB Kit (2x16GB) DDR5 4800MHz PC5-38400 CL 40-40-40-77 1.1V UDIMM 288 Pin Unbuffered Non ECC PC Desktop Memory Module Upgrade"
-        },
-        {
-          "price": 449.9,
-          "title": "Crucial 32GB DDR5 RAM, 5600MHz (or 5200MHz or 4800MHz) Desktop Memory, UDIMM 288-Pin, Compatible with 13th Gen Intel Core and AMD Ryzen 7000 - CT32G56C46U5"
-        },
-        {
-          "price": 449.99,
-          "title": "CORSAIR Vengeance RGB DDR5 32GB (2 x 16GB) Up to 6000MHz CL38-44-44-96 1.35V Intel XMP 3.0 AMD EXPO Computer Desktop Memory \u2013 Gray"
-        }
-      ]
+      "cheapest": null,
+      "median": null,
+      "count": 0,
+      "kits": []
     },
     "microcenter": {
       "cheapest": null,
@@ -105,45 +74,14 @@
       "kits": []
     },
     "bh": {
-      "cheapest": 1.35,
-      "median": 445.49,
-      "count": 8,
-      "cheapest_title": "CORSAIR 32GB VENGEANCE RGB DDR5 6000 MT/s DIMM Memory Kit (Gray, 2 x 16GB)",
-      "kits": [
-        {
-          "price": 1.35,
-          "title": "CORSAIR 32GB VENGEANCE RGB DDR5 6000 MT/s DIMM Memory Kit (Gray, 2 x 16GB)"
-        },
-        {
-          "price": 1.35,
-          "title": "CORSAIR 32GB VENGEANCE RGB DDR5 6000 MT/s DIMM Memory Kit (Black, 2 x 16GB)"
-        },
-        {
-          "price": 1.45,
-          "title": "CORSAIR 32GB VENGEANCE RGB DDR5 7200 MT/s DIMM Memory Kit (White, 2 x 16GB)"
-        },
-        {
-          "price": 444.99,
-          "title": "Patriot 32GB Signature Series DDR5 4800 MHz UDIMM RAM Kit (2 x 16GB)"
-        },
-        {
-          "price": 445.99,
-          "title": "Patriot 32GB Signature Line DDR5 5600 MHz SO-DIMM Memory Module"
-        },
-        {
-          "price": 449.99,
-          "title": "PNY 32GB DDR5 5600 MHz UDIMM Desktop Memory Kit (2 x 16GB)"
-        },
-        {
-          "price": 452.99,
-          "title": "PNY 32GB Performance DDR5 5600 MHz SO-DIMM Memory Kit (2 x 16GB)"
-        },
-        {
-          "price": 487.99,
-          "title": "CORSAIR 32GB VENGEANCE DDR5 6000 MHz UDIMM Memory Kit (2 x 16GB, Gray)"
-        }
-      ]
+      "cheapest": null,
+      "median": null,
+      "count": 0,
+      "kits": []
     }
   },
-  "best_price": 1.35
+  "best_price": 399.99,
+  "best_source": "newegg",
+  "best_title": "Team T-Force Vulcan ECO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model FLESD532G6400HC38JDC01",
+  "best_url": "https://www.newegg.com/team-group-t-force-vulcan-eco-32gb-2-x-16gb-ddr5-6400-pc5-51200-cas-latency-cl38-desktop-memory-silver/p/N82E16820985371"
 }

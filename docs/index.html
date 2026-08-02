@@ -23,6 +23,10 @@
   .hero .label { color:var(--muted); font-size:13px; text-transform:uppercase; letter-spacing:.5px; }
   .hero .price { font-size:56px; font-weight:700; color:var(--accent); margin:6px 0; }
   .hero .note { color:var(--muted); font-size:13px; }
+  .hero .kitname { font-size:14px; margin:10px auto 0; max-width:480px; }
+  .btn { display:inline-block; margin-top:14px; padding:9px 18px; border-radius:10px;
+    background:var(--accent); color:#06210f; font-weight:600; font-size:14px; text-decoration:none; }
+  @media (prefers-color-scheme: dark){ .btn { color:#06210f; } }
   .grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:16px; }
   @media (max-width:560px){ .grid { grid-template-columns:1fr; } }
   .card { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px; }
@@ -46,6 +50,8 @@
     <div class="label">Cheapest right now</div>
     <div class="price" id="best">—</div>
     <div class="note" id="best-note"></div>
+    <div class="kitname" id="best-kit"></div>
+    <a class="btn" id="best-link" href="#" target="_blank" rel="noopener" hidden>View this kit →</a>
   </div>
 
   <div class="grid" id="sources"></div>
@@ -75,9 +81,11 @@ async function load() {
     "Last updated " + d.toLocaleString() + " · " + data.unit;
 
   document.getElementById("best").textContent = money(data.best_price);
-  const cheapSrc = Object.entries(data.sources).find(([, s]) => s.cheapest === data.best_price);
   document.getElementById("best-note").textContent =
-    cheapSrc ? "lowest across tracked retailers · " + cheapSrc[0] : "no data available today";
+    data.best_price ? "lowest across tracked retailers · " + data.best_source : "no data available today";
+  document.getElementById("best-kit").textContent = data.best_title || "";
+  const link = document.getElementById("best-link");
+  if (data.best_url) { link.href = data.best_url; link.hidden = false; }
 
   const sc = document.getElementById("sources");
   for (const [name, s] of Object.entries(data.sources)) {
@@ -92,8 +100,10 @@ async function load() {
   }
 
   const kits = (data.sources.newegg && data.sources.newegg.kits) || [];
-  document.getElementById("kits").innerHTML = kits.map(k =>
-    `<tr><td>${k.title}</td><td class="p">${money(k.price)}</td></tr>`).join("");
+  document.getElementById("kits").innerHTML = kits.map(k => {
+    const name = k.url ? `<a href="${k.url}" target="_blank" rel="noopener">${k.title}</a>` : k.title;
+    return `<tr><td>${name}</td><td class="p">${money(k.price)}</td></tr>`;
+  }).join("");
 
   drawChart(hist.filter(h => h.source === "newegg"));
 }

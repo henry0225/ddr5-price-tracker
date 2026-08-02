@@ -17,15 +17,22 @@ SOURCES = {
     "bh": lambda: browser.fetch("bh"),
 }
 
+# Plausibility bounds for a 32GB DDR5 kit. Guards against spec text like "1.35V"
+# being misread as a price, and against obvious junk / financing "$/mo" values.
+PRICE_MIN, PRICE_MAX = 40.0, 2000.0
+
 
 def summarize(rows):
-    prices = sorted(r["price"] for r in rows)
-    cheapest_kit = min(rows, key=lambda r: r["price"])
+    rows = [r for r in rows if PRICE_MIN <= r["price"] <= PRICE_MAX]
+    if not rows:
+        return None
+    cheapest = min(rows, key=lambda r: r["price"])
     return {
-        "cheapest": prices[0],
-        "median": round(statistics.median(prices), 2),
-        "count": len(prices),
-        "cheapest_title": cheapest_kit["title"],
+        "cheapest": cheapest["price"],
+        "median": round(statistics.median(r["price"] for r in rows), 2),
+        "count": len(rows),
+        "cheapest_title": cheapest["title"],
+        "cheapest_url": cheapest.get("url"),
         "kits": sorted(rows, key=lambda r: r["price"])[:10],
     }
 
@@ -40,15 +47,25 @@ def main():
         except Exception as e:
             rows = []
             print(f"[{name}] error: {e}")
-        if rows:
-            snapshot["sources"][name] = summarize(rows)
-            print(f"[{name}] {len(rows)} kits, cheapest ${snapshot['sources'][name]['cheapest']}")
+        s = summarize(rows) if rows else None
+        if s:
+            snapshot["sources"][name] = s
+            print(f"[{name}] {s['count']} kits, cheapest ${s['cheapest']}")
         else:
             snapshot["sources"][name] = {"cheapest": None, "median": None, "count": 0, "kits": []}
             print(f"[{name}] no data (blocked or empty)")
 
-    avail = [s["cheapest"] for s in snapshot["sources"].values() if s["cheapest"]]
-    snapshot["best_price"] = min(avail) if avail else None
+    # Overall cheapest across sources, with the retailer + link to that kit.
+    best = min(
+        ((name, s) for name, s in snapshot["sources"].items() if s["cheapest"]),
+        key=lambda kv: kv[1]["cheapest"], default=None,
+    )
+    if best:
+        name, s = best
+        snapshot.update(best_price=s["cheapest"], best_source=name,
+                        best_title=s["cheapest_title"], best_url=s.get("cheapest_url"))
+    else:
+        snapshot["best_price"] = None
 
     SITE.mkdir(exist_ok=True)
     (SITE / "prices.json").write_text(json.dumps(snapshot, indent=2))
