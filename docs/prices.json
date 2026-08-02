@@ -1,16 +1,20 @@
 {
-  "updated": "2026-08-01T14:40:52+00:00",
+  "updated": "2026-08-02T14:43:04+00:00",
   "unit": "USD, 32GB (2x16GB) DDR5 kit",
   "sources": {
     "newegg": {
       "cheapest": 399.99,
-      "median": 479.99,
-      "count": 42,
+      "median": 489.99,
+      "count": 43,
       "cheapest_title": "Team T-Force Vulcan ECO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model FLESD532G6400HC38JDC01",
       "kits": [
         {
           "price": 399.99,
           "title": "Team T-Force Vulcan ECO 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model FLESD532G6400HC38JDC01"
+        },
+        {
+          "price": 399.99,
+          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVVR532G600C36K Compatible with AMD / Intel Gen14 Only"
         },
         {
           "price": 399.99,
@@ -23,10 +27,6 @@
         {
           "price": 409.99,
           "title": "Patriot Viper Elite 5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 CL30(PC5 48000) Hynix Desktop Memory Model VEB532G6030KW Compatible with AMD & Intel Gen14 Only"
-        },
-        {
-          "price": 409.99,
-          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model PVVR532G560C36K"
         },
         {
           "price": 419.99,
@@ -45,17 +45,25 @@
           "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - BLACK (TMXFL1660830KWK)"
         },
         {
-          "price": 429.99,
-          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model PVV532G640C32K Compatible with AMD / Intel Gen14 Only"
+          "price": 434.99,
+          "title": "Team T-CREATE CLASSIC 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model CTCCD532G5600HC46DC01"
         }
       ]
     },
     "amazon": {
-      "cheapest": 379.99,
-      "median": 455.52,
+      "cheapest": 1.35,
+      "median": 449.44,
       "count": 16,
-      "cheapest_title": "PNY DDR5 32GB (2x16GB) 5600MHz CL46 Performance Desktop Memory Kit | Not Intel 15th Gen Compatible - PC5-44800, CL46, 1.1V, 288-Pin, RAM, Compatible: 5200MHz, 4800MHz - MD32GK2D5560046-TB",
+      "cheapest_title": "CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) Up to 6000MHz CL36-44-44-96 1.35V AMD EXPO Intel XMP 3.0 Computer Memory \u2013 Grey (CMK32GX5M2E6000Z36)",
       "kits": [
+        {
+          "price": 1.35,
+          "title": "CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) Up to 6000MHz CL36-44-44-96 1.35V AMD EXPO Intel XMP 3.0 Computer Memory \u2013 Grey (CMK32GX5M2E6000Z36)"
+        },
+        {
+          "price": 379.97,
+          "title": "Silicon Power DDR5 5600MT/s (PC5-44800) 32GB 1.1V Desktop Unbuffered DIMM SU032GBLVU560F02EC"
+        },
         {
           "price": 379.99,
           "title": "PNY DDR5 32GB (2x16GB) 5600MHz CL46 Performance Desktop Memory Kit | Not Intel 15th Gen Compatible - PC5-44800, CL46, 1.1V, 288-Pin, RAM, Compatible: 5200MHz, 4800MHz - MD32GK2D5560046-TB"
@@ -63,10 +71,6 @@
         {
           "price": 419.99,
           "title": "Lexar Thor Z RGB DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL38 DRAM 288-Pin UDIMM | Supports Intel XMP 3.0 & AMD EXPO On-die ECC, PMIC, 1.35V High-Performance PC Computer Memory for Gaming, AI"
-        },
-        {
-          "price": 427.07,
-          "title": "CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) Up to 6000MHz CL36-44-44-96 1.35V AMD EXPO Intel XMP 3.0 Computer Memory \u2013 Grey (CMK32GX5M2E6000Z36)"
         },
         {
           "price": 429.99,
@@ -85,16 +89,12 @@
           "title": "\u3010DDR5 RAM\u3011 GIGASTONE 32GB Kit (2x16GB) DDR5 4800MHz PC5-38400 CL 40-40-40-77 1.1V UDIMM 288 Pin Unbuffered Non ECC PC Desktop Memory Module Upgrade"
         },
         {
-          "price": 454.99,
-          "title": "CORSAIR Vengeance RGB RS DDR5 RAM 32GB (2x16GB) Up to 6000MHz CL36-44-44-96 1.35V AMD Expo Intel XMP Computer Desktop Memory \u2013 Gray (CMG32GX5M2E6000Z36)"
-        },
-        {
-          "price": 456.05,
+          "price": 449.9,
           "title": "Crucial 32GB DDR5 RAM, 5600MHz (or 5200MHz or 4800MHz) Desktop Memory, UDIMM 288-Pin, Compatible with 13th Gen Intel Core and AMD Ryzen 7000 - CT32G56C46U5"
         },
         {
-          "price": 459.0,
-          "title": "G.SKILL Flare X5 Series DDR5 RAM (AMD EXPO & Intel XMP 3.0) 32GB (2x16GB) 6000MT/s CL36-36-36-96 1.35V Desktop Computer Memory U-DIMM - Matte Black (F5-6000J3636F16GX2-FX5)"
+          "price": 449.99,
+          "title": "CORSAIR Vengeance RGB DDR5 32GB (2 x 16GB) Up to 6000MHz CL38-44-44-96 1.35V Intel XMP 3.0 AMD EXPO Computer Desktop Memory \u2013 Gray"
         }
       ]
     },
@@ -106,8 +106,8 @@
     },
     "bh": {
       "cheapest": 1.35,
-      "median": 458.49,
-      "count": 12,
+      "median": 445.49,
+      "count": 8,
       "cheapest_title": "CORSAIR 32GB VENGEANCE RGB DDR5 6000 MT/s DIMM Memory Kit (Gray, 2 x 16GB)",
       "kits": [
         {
@@ -117,6 +117,10 @@
         {
           "price": 1.35,
           "title": "CORSAIR 32GB VENGEANCE RGB DDR5 6000 MT/s DIMM Memory Kit (Black, 2 x 16GB)"
+        },
+        {
+          "price": 1.45,
+          "title": "CORSAIR 32GB VENGEANCE RGB DDR5 7200 MT/s DIMM Memory Kit (White, 2 x 16GB)"
         },
         {
           "price": 444.99,
@@ -135,20 +139,8 @@
           "title": "PNY 32GB Performance DDR5 5600 MHz SO-DIMM Memory Kit (2 x 16GB)"
         },
         {
-          "price": 463.99,
-          "title": "TEAMGROUP 32GB T-Create Classic DDR5 5600 MHz SO-DIMM Memory Module (White)"
-        },
-        {
           "price": 487.99,
           "title": "CORSAIR 32GB VENGEANCE DDR5 6000 MHz UDIMM Memory Kit (2 x 16GB, Gray)"
-        },
-        {
-          "price": 503.99,
-          "title": "TEAMGROUP 32GB T-Create Expert DDR5 6000 MHz UDIMM Memory Kit (2 x 16GB, White)"
-        },
-        {
-          "price": 507.99,
-          "title": "TEAMGROUP 32GB T-Create Expert DDR5 6000 MHz UDIMM Memory Kit (2 x 16GB, Black)"
         }
       ]
     }
