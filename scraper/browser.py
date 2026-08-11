@@ -47,10 +47,15 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
 # (voltage) or "5600MT" — i.e. not immediately followed by a letter.
 _DOLLAR = re.compile(r"\$\s*([\d,]+\.\d{2})")
 _BARE = re.compile(r"(?<![\d.])([\d,]+\.\d{2})(?![\dA-Za-z])")
+# Monthly financing suffix (Affirm "or $X/mo") — never a purchase price.
+_FINANCING = re.compile(r"\s*(?:/|per\s+)?\s*mo\b", re.I)
 
 
 def _price(text):
-    m = _DOLLAR.search(text) or _BARE.search(text)
+    for m in _DOLLAR.finditer(text):
+        if not _FINANCING.match(text, m.end()):
+            return float(m.group(1).replace(",", ""))
+    m = _BARE.search(text)
     return float(m.group(1).replace(",", "")) if m else None
 
 
@@ -99,8 +104,7 @@ def fetch(site_key):
                 # as a price.
                 price = _price(pnode.inner_text()) if pnode else None
                 if price is None:
-                    m = _DOLLAR.search(card.inner_text())
-                    price = float(m.group(1).replace(",", "")) if m else None
+                    price = _price(card.inner_text())
                 if price is None:
                     continue
                 link = card.query_selector("a[href]")

@@ -17,13 +17,17 @@ SOURCES = {
     "bh": lambda: browser.fetch("bh"),
 }
 
-# Plausibility bounds for a 32GB DDR5 kit. Guards against spec text like "1.35V"
-# being misread as a price, and against obvious junk / financing "$/mo" values.
+# Hard plausibility bounds for a 32GB DDR5 kit. Catches spec text like "1.35V".
 PRICE_MIN, PRICE_MAX = 40.0, 2000.0
+# A real kit's price won't be less than this fraction of the cross-retailer
+# median. Catches fragment/financing mis-scrapes (e.g. B&H showing "$78" for a
+# ~$120 kit) that clear the hard floor. Newegg's reliable prices anchor the
+# median, and it auto-adjusts as the market moves.
+OUTLIER_FRACTION = 0.5
 
 
-def summarize(rows):
-    rows = [r for r in rows if PRICE_MIN <= r["price"] <= PRICE_MAX]
+def summarize(rows, floor):
+    rows = [r for r in rows if floor <= r["price"] <= PRICE_MAX]
     if not rows:
         return None
     cheapest = min(rows, key=lambda r: r["price"])
@@ -41,16 +45,30 @@ def main():
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     snapshot = {"updated": now, "unit": "USD, 32GB (2x16GB) DDR5 kit", "sources": {}}
 
+    # Pass 1: fetch every source's raw kits.
+    raw = {}
     for name, fetch in SOURCES.items():
         try:
-            rows = fetch()
+            raw[name] = fetch()
         except Exception as e:
-            rows = []
+            raw[name] = []
             print(f"[{name}] error: {e}")
-        s = summarize(rows) if rows else None
+
+    # Cross-retailer median (robust to a few bad points) sets a dynamic floor.
+    all_prices = [r["price"] for rows in raw.values() for r in rows
+                  if PRICE_MIN <= r["price"] <= PRICE_MAX]
+    market_median = statistics.median(all_prices) if all_prices else 0
+    floor = max(PRICE_MIN, OUTLIER_FRACTION * market_median)
+    print(f"market median ${market_median:.2f} -> outlier floor ${floor:.2f}")
+
+    # Pass 2: summarize each source against the dynamic floor.
+    for name, rows in raw.items():
+        s = summarize(rows, floor) if rows else None
         if s:
             snapshot["sources"][name] = s
-            print(f"[{name}] {s['count']} kits, cheapest ${s['cheapest']}")
+            dropped = len([r for r in rows if PRICE_MIN <= r["price"] < floor])
+            note = f" (dropped {dropped} low outlier(s))" if dropped else ""
+            print(f"[{name}] {s['count']} kits, cheapest ${s['cheapest']}{note}")
         else:
             snapshot["sources"][name] = {"cheapest": None, "median": None, "count": 0, "kits": []}
             print(f"[{name}] no data (blocked or empty)")
