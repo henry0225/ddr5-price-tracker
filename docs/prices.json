@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-20T13:58:20+00:00",
+  "updated": "2026-08-21T13:57:50+00:00",
   "unit": "USD, 32GB (2x16GB) DDR5 kit",
   "sources": {
     "newegg": {
       "cheapest": 407.99,
-      "median": 514.99,
-      "count": 42,
+      "median": 519.99,
+      "count": 43,
       "cheapest_title": "DATO 32GB (2x16GB) DDR5 5600MHz UDIMM desktop Memory RAM, PC5-44800, CL46, 1.1V, 288-Pin, Non-ECC, Unbuffered",
-      "cheapest_url": "https://www.newegg.com/dato-32gb-2-x-16gb-5600-mhz-cas-latency-cl46-memory-system-specific-memory/p/2SJ-004V-00001?Item=9SIC1WRKPX0232&amp;cm_sp=SP-_-3099570-_-0-_-2-_-9SIC1WRKPX0232-_-32gb ddr5 ram-_-32gb|ddr5|ram-_-24",
+      "cheapest_url": "https://www.newegg.com/dato-32gb-2-x-16gb-5600-mhz-cas-latency-cl46-memory-system-specific-memory/p/2SJ-004V-00001?Item=9SIC1WRKPX0232&amp;cm_sp=SP-_-3099570-_-0-_-2-_-9SIC1WRKPX0232-_-32gb ddr5 ram-_-32gb|ddr5|ram-_-18",
       "kits": [
         {
           "price": 407.99,
           "title": "DATO 32GB (2x16GB) DDR5 5600MHz UDIMM desktop Memory RAM, PC5-44800, CL46, 1.1V, 288-Pin, Non-ECC, Unbuffered",
-          "url": "https://www.newegg.com/dato-32gb-2-x-16gb-5600-mhz-cas-latency-cl46-memory-system-specific-memory/p/2SJ-004V-00001?Item=9SIC1WRKPX0232&amp;cm_sp=SP-_-3099570-_-0-_-2-_-9SIC1WRKPX0232-_-32gb ddr5 ram-_-32gb|ddr5|ram-_-24"
-        },
-        {
-          "price": 409.99,
-          "title": "Patriot Viper Elite 5 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 CL30(PC5 48000) Hynix Desktop Memory Model VEB532G6030KW Compatible with AMD & Intel Gen14 Only",
-          "url": "https://www.newegg.com/patriot-memory-viper-elite-5-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-desktop-memory-white/p/N82E16820225386"
+          "url": "https://www.newegg.com/dato-32gb-2-x-16gb-5600-mhz-cas-latency-cl46-memory-system-specific-memory/p/2SJ-004V-00001?Item=9SIC1WRKPX0232&amp;cm_sp=SP-_-3099570-_-0-_-2-_-9SIC1WRKPX0232-_-32gb ddr5 ram-_-32gb|ddr5|ram-_-18"
         },
         {
           "price": 409.99,
           "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVVR532G600C36K Compatible with AMD / Intel Gen14 Only",
-          "url": "https://www.newegg.com/patriot-memory-viper-venom-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-matte-black/p/N82E16820225310?Item=N82E16820225310&amp;cm_sp=SP-_-2975243-_-0-_-2-_-20-225-310-_-32gb ddr5 ram-_-32gb|ram-_-18"
+          "url": "https://www.newegg.com/patriot-memory-viper-venom-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-matte-black/p/N82E16820225310?Item=N82E16820225310&amp;cm_sp=SP-_-2975243-_-0-_-2-_-20-225-310-_-32gb ddr5 ram-_-32gb|ram-_-15"
         },
         {
           "price": 409.99,
           "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL36 1.25V SK Hynix Original IC RGB Gaming Desktop Memory Module Black, for AMD EXPO (TMXSAO1660836KKK)",
           "url": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl36-memory-desktop-memory/p/0RN-00MB-000V0"
+        },
+        {
+          "price": 409.99,
+          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model PVVR532G560C36K",
+          "url": "https://www.newegg.com/patriot-memory-viper-venom-rgb-32gb-ddr5-5600-cas-latency-cl36-desktop-memory-matte-black/p/N82E16820225309?Item=N82E16820225309&amp;cm_sp=SP-_-2975243-_-0-_-2-_-20-225-309-_-32gb ddr5 ram-_-32gb|ram-_-21"
         },
         {
           "price": 419.99,
@@ -36,13 +36,13 @@
         },
         {
           "price": 419.99,
-          "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - WHITE (TMXFL1660830WWK)",
-          "url": "https://www.newegg.com/v-color-manta-xfinity-rgb-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory-white/p/0RN-00MB-000W3"
+          "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - BLACK (TMXFL1660830KWK)",
+          "url": "https://www.newegg.com/v-color-manta-xfinity-rgb-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory-black/p/0RN-00MB-000W4"
         },
         {
           "price": 419.99,
-          "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - BLACK (TMXFL1660830KWK)",
-          "url": "https://www.newegg.com/v-color-manta-xfinity-rgb-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory-black/p/0RN-00MB-000W4"
+          "title": "V-COLOR Manta XFinity RGB DDR5 32GB (16GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Desktop Upgrade RAM U-DIMM Memory Module SK Hynix IC - WHITE (TMXFL1660830WWK)",
+          "url": "https://www.newegg.com/v-color-manta-xfinity-rgb-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory-white/p/0RN-00MB-000W3"
         },
         {
           "price": 419.99,
@@ -50,73 +50,73 @@
           "url": "https://www.newegg.com/team-group-t-force-vulcan-eco-32gb-2-x-16gb-ddr5-6400-pc5-51200-cas-latency-cl38-desktop-memory-silver/p/N82E16820985371"
         },
         {
-          "price": 428.99,
-          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6400MHz CL32 1.4V SK Hynix IC RGB Gaming Desktop Upgrade Memory Module Black, for AMD EXPO (TMXSAL1664832KWK)",
-          "url": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6400-pc5-51200-cas-latency-cl32-memory-desktop-memory-black/p/0RN-00MB-000U7"
-        },
-        {
           "price": 439.99,
           "title": "CORSAIR Vengeance 32GB (2 x 16GB) 288-Pin PC RAM DDR5 4800 (PC5 38400) Desktop Memory Model CMK32GX5M2A4800C40",
           "url": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-4800-cas-latency-cl40-desktop-memory-black/p/N82E16820236826"
+        },
+        {
+          "price": 439.99,
+          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model PVV532G640C32K Compatible with AMD / Intel Gen14 Only",
+          "url": "https://www.newegg.com/patriot-memory-viper-venom-rgb-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-matte-black/p/N82E16820225336?Item=N82E16820225336&amp;cm_sp=SP-_-2975243-_-0-_-2-_-20-225-336-_-32gb ddr5 ram-_-32gb|ram-_-12"
         }
       ]
     },
     "amazon": {
       "cheapest": 419.99,
-      "median": 487.47,
+      "median": 482.48,
       "count": 16,
       "cheapest_title": "Timetec 32GB KIT(2x16GB) DDR5 5600MHz PC5-44800 Unbuffered Non-ECC 1.1V CL46 1Rx8 Sinlge Rank 288 Pin UDIMM Desktop Memory RAM Module Upgrade",
-      "cheapest_url": "https://www.amazon.com/Timetec-Unbuffered-Non-ECC-Desktop-Upgrade/dp/B0D1JST6PB/ref=sr_1_11?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-11",
+      "cheapest_url": "https://www.amazon.com/Timetec-Unbuffered-Non-ECC-Desktop-Upgrade/dp/B0D1JST6PB/ref=sr_1_11?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-11",
       "kits": [
         {
           "price": 419.99,
           "title": "Timetec 32GB KIT(2x16GB) DDR5 5600MHz PC5-44800 Unbuffered Non-ECC 1.1V CL46 1Rx8 Sinlge Rank 288 Pin UDIMM Desktop Memory RAM Module Upgrade",
-          "url": "https://www.amazon.com/Timetec-Unbuffered-Non-ECC-Desktop-Upgrade/dp/B0D1JST6PB/ref=sr_1_11?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-11"
-        },
-        {
-          "price": 429.99,
-          "title": "Patriot Viper Venom DDR5 RAM 32GB (2X16GB) 6000MHz CL30 Desktop Memory | Voltage: 1.35v; Supports Intel XMP and AMD EXPO; Module type: UDIMM.",
-          "url": "https://www.amazon.com/Patriot-2X16GB-6000MT-Desktop-Memory/dp/B0D4NLSP87/ref=sr_1_3?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-3"
+          "url": "https://www.amazon.com/Timetec-Unbuffered-Non-ECC-Desktop-Upgrade/dp/B0D1JST6PB/ref=sr_1_11?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-11"
         },
         {
           "price": 429.99,
           "title": "Lexar Thor Z RGB DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL38 DRAM 288-Pin UDIMM | Supports Intel XMP 3.0 & AMD EXPO On-die ECC, PMIC, 1.35V High-Performance PC Computer Memory for Gaming, AI",
-          "url": "https://www.amazon.com/Lexar-2x16GB-6000MHz-288-Pin-UDIMM/dp/B0GSR1M4ZJ/ref=sr_1_7?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-7"
+          "url": "https://www.amazon.com/Lexar-2x16GB-6000MHz-288-Pin-UDIMM/dp/B0GSR1M4ZJ/ref=sr_1_7?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-7"
+        },
+        {
+          "price": 429.99,
+          "title": "CORSAIR Vengeance SODIMM DDR5 RAM 32GB (1x32GB) Up to 5600MHz CL48 Intel XMP 3.0 Desktop Computer Memory - Black (CMSX32GX5M1A5600C48)",
+          "url": "https://www.amazon.com/CORSAIR-Vengeance-5600MHz-Compatible-Computer/dp/B0D33THVDL/ref=sr_1_9?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-9"
         },
         {
           "price": 439.99,
           "title": "CORSAIR Vengeance DDR5 32GB (2 x 16GB) Up to 6000MHz AMD Intel RAM | Desktop Gaming Memory, AMD EXPO & Intel XMP 3.0 Compatible, CL36, Grey, CMK32GX5M2E6000Z36",
-          "url": "https://www.amazon.com/CORSAIR-VENGEANCE-6000MHz-Compatible-Computer/dp/B0CJ8ZHMVF/ref=sr_1_1?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-1"
+          "url": "https://www.amazon.com/CORSAIR-VENGEANCE-6000MHz-Compatible-Computer/dp/B0CJ8ZHMVF/ref=sr_1_5?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-5"
         },
         {
           "price": 444.99,
-          "title": "Kingston FURY Beast 32GB 5600MT/s DDR5 CL36 Desktop Memory | AMD EXPO | Single Module | KF556C36BBE2-32",
-          "url": "https://www.amazon.com/Kingston-5600MT-Desktop-Memory-KF556C36BBE2-32/dp/B0F8NYDT8G/ref=sr_1_15?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-15"
+          "title": "Patriot Viper Venom DDR5 RAM 32GB (2X16GB) 6000MHz CL30 Desktop Memory | Voltage: 1.35v; Supports Intel XMP and AMD EXPO; Module type: UDIMM.",
+          "url": "https://www.amazon.com/Patriot-2X16GB-6000MT-Desktop-Memory/dp/B0D4NLSP87/ref=sr_1_2?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-2"
         },
         {
-          "price": 467.99,
+          "price": 475.0,
+          "title": "Samsung 32GB (2x16GB) DDR5 5600MHz PC5-44800 CL46 UDIMM 1Rx8 Single Rank 1.1V Non-ECC DIMM 288-Pin Desktop Computer RAM Memory",
+          "url": "https://www.amazon.com/Samsung-5600MHz-PC5-44800-Non-ECC-Computer/dp/B0DTJFTVCP/ref=sr_1_15?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-15"
+        },
+        {
+          "price": 479.99,
           "title": "G.SKILL Flare X5 Series DDR5 RAM (AMD EXPO & Intel XMP 3.0) 32GB (2x16GB) 6000MT/s CL36-36-36-96 1.35V Desktop Computer Memory U-DIMM - Matte Black (F5-6000J3636F16GX2-FX5)",
-          "url": "https://www.amazon.com/G-Skill-288-Pin-CL36-36-36-96-Channel-F5-6000J3636F16GX2-FX5/dp/B0BFGB2D2Z/ref=sr_1_5_mod_primary_new?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-5"
+          "url": "https://www.amazon.com/G-Skill-288-Pin-CL36-36-36-96-Channel-F5-6000J3636F16GX2-FX5/dp/B0BFGB2D2Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-1"
         },
         {
           "price": 479.99,
           "title": "Corsair Vengeance RGB RS DDR5 32GB (2 x 16GB) Up to 6000MHz AMD Intel RAM | Desktop Gaming Memory, AMD EXPO & Intel XMP 3.0 Compatible, CL36, Grey, CMG32GX5M2E6000Z36",
-          "url": "https://www.amazon.com/CORSAIR-Vengeance-6000MHz-CL36-44-44-96-Computer/dp/B0GGJ79NR3/ref=sr_1_6?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-6"
+          "url": "https://www.amazon.com/CORSAIR-Vengeance-6000MHz-CL36-44-44-96-Computer/dp/B0GGJ79NR3/ref=sr_1_6?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-6"
         },
         {
           "price": 484.97,
           "title": "Silicon Power DDR5 32GB (2x16GB) Zenith 6000MT/s (PC5-48000) 288-pin CL30 1.35V UDIMM Desktop Memory Module RAM SU032GXLWU60AFDGSW White",
-          "url": "https://www.amazon.com/Silicon-Power-PC5-48000-288-pin-SU032GXLWU60AFDGSW/dp/B0FYPNNWVS/ref=sr_1_14?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-14"
+          "url": "https://www.amazon.com/Silicon-Power-PC5-48000-288-pin-SU032GXLWU60AFDGSW/dp/B0FYPNNWVS/ref=sr_1_16?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-16"
         },
         {
           "price": 489.97,
           "title": "Silicon Power Value Gaming DDR5 32GB (2x16GB) 6000MT/s (PC5-48000) 288-pin CL30 1.35V UDIMM Desktop RAM Computer Memory SP032GXLWU60AFDJ",
-          "url": "https://www.amazon.com/Silicon-Power-PC5-48000-Computer-SP032GXLWU60AFDJ/dp/B0D95ZYN8N/ref=sr_1_4?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-4"
-        },
-        {
-          "price": 489.99,
-          "title": "Crucial Pro DDR5 RAM 32GB Kit (2x16GB), 6400MHz CL32, Overclocking Desktop Gaming Memory, Intel XMP 3.0 & AMD Expo Compatible, Black - CP2K16G64C32U5B",
-          "url": "https://www.amazon.com/Crucial-6400MHz-Overclocking-Desktop-Compatible/dp/B0FQMLKVLS/ref=sr_1_9?dib=eyJ2IjoiMSJ9.y8xnNtg1Tg2AOEIjou8PIpnz1EJpSN1LpESWUETeJPxRvhTR_7jJI5pdEmrSUqSIOe1setyTeSIT0ywe5Ln0W4rOTerC7FRU1iLIGbI0s97YHGzcBfRVFbyq-Dxe61fI_ZIHfRTKjjlS-NsWIo-VNqhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFuCbcDSshWFCQimRTXzwa6MIUcCm2YT8QlSVYrNAPeJv8.J1tvRuYK3Cz4GS4RFIiJY055bKFeFpHHiZbVSLCoThQ&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787234303&sr=8-9"
+          "url": "https://www.amazon.com/Silicon-Power-PC5-48000-Computer-SP032GXLWU60AFDJ/dp/B0D95ZYN8N/ref=sr_1_3?dib=eyJ2IjoiMSJ9.d8cGhXVchMeW6iuP7QED4j1Gre8FsdpYWJFOVyVb_ZVgPO3AxbZQBQ6LU7bOIDFkpmV05QUeANfRnajD3tU-xUlbCRwrS0cTLc555OvYPjNbgTUW6to-41aWsgd_Sh63x_tLYm89Y5N1hQxfITYwpKhpK5S8ZWlmKrBuj40016OaKeJx13LOXGcIK2ZMbJFutGzBaV62JGBeRxVDLwNocbfCzDFgkhToj9fHzgm5DHM.Vuc82Rfnt6gyU6_OfGIBEsBksHQk_M0NuI5SjDVuh1g&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1787320673&sr=8-3"
         }
       ]
     },
@@ -127,14 +127,67 @@
       "kits": []
     },
     "bh": {
-      "cheapest": null,
-      "median": null,
-      "count": 0,
-      "kits": []
+      "cheapest": 449.99,
+      "median": 517.99,
+      "count": 13,
+      "cheapest_title": "PNY 32GB DDR5 5600 MHz UDIMM Desktop Memory Kit (2 x 16GB)",
+      "cheapest_url": "https://www.bhphotovideo.com/c/product/1975133-REG/pny_md32gk2d5560046_tb_performance_32gb_ddr5_ram.html",
+      "kits": [
+        {
+          "price": 449.99,
+          "title": "PNY 32GB DDR5 5600 MHz UDIMM Desktop Memory Kit (2 x 16GB)",
+          "url": "https://www.bhphotovideo.com/c/product/1975133-REG/pny_md32gk2d5560046_tb_performance_32gb_ddr5_ram.html"
+        },
+        {
+          "price": 452.99,
+          "title": "PNY 32GB Performance DDR5 5600 MHz SO-DIMM Memory Kit (2 x 16GB)",
+          "url": "https://www.bhphotovideo.com/c/product/1886265-REG/pny_mn32gk2d55600_tb_32gb_2_x_16gb.html"
+        },
+        {
+          "price": 453.99,
+          "title": "Patriot 32GB Signature Series DDR5 4800 MHz UDIMM RAM Kit (2 x 16GB)",
+          "url": "https://www.bhphotovideo.com/c/product/1688005-REG/patriot_psd532g4800k_sl_ddr5_32gb_4800mhz.html"
+        },
+        {
+          "price": 457.99,
+          "title": "Patriot 32GB Signature Series 5600 MHz DDR5 UDIMM Kit (2 x 16GB)",
+          "url": "https://www.bhphotovideo.com/c/product/1750691-REG/patriot_psd532g5600k_patriot_sl_ddr5_32gb.html"
+        },
+        {
+          "price": 472.99,
+          "title": "Patriot 32GB Signature Line DDR5 5600 MHz SO-DIMM Memory Module",
+          "url": "https://www.bhphotovideo.com/c/product/1761056-REG/patriot_psd532g56002s_sl_p_ddr5_32gb.html"
+        },
+        {
+          "price": 505.99,
+          "title": "CORSAIR 32GB VENGEANCE DDR5 6000 MHz UDIMM Memory Kit (2 x 16GB, Gray)",
+          "url": "https://www.bhphotovideo.com/c/product/1941799-REG/corsair_cmk32gx5m2b6000z38_vengeance_32gb_ddr5_6000_pc5_48000.html"
+        },
+        {
+          "price": 517.99,
+          "title": "CORSAIR 32GB VENGEANCE RGB DDR5 6000 MT/s DIMM Memory Kit (Gray, 2 x 16GB)",
+          "url": "https://www.bhphotovideo.com/c/product/1941798-REG/corsair_cmh32gx5m2b6000z38_vengeance_rgb_32gb_ddr5_6000.html"
+        },
+        {
+          "price": 560.99,
+          "title": "TEAMGROUP 32GB T-Create Expert DDR5 6000 MHz UDIMM Memory Kit (2 x 16GB, Black)",
+          "url": "https://www.bhphotovideo.com/c/product/1845648-REG/team_group_ctced532g6000hc30dc01_t_create_classic_32gb_ddr5.html"
+        },
+        {
+          "price": 560.99,
+          "title": "TEAMGROUP 32GB T-Create Expert DDR5 6000 MHz UDIMM Memory Kit (2 x 16GB, White)",
+          "url": "https://www.bhphotovideo.com/c/product/1845662-REG/team_group_ctcwd532g6000hc30dc01_t_create_expert_32gb_288_pin.html"
+        },
+        {
+          "price": 603.99,
+          "title": "TEAMGROUP 32GB T-Create Expert DDR5 6400 MHz UDIMM Memory Kit (2 x 16GB, Black)",
+          "url": "https://www.bhphotovideo.com/c/product/1845649-REG/team_group_ctced532g6400hc32adc01_t_create_expert_32gb_ddr5.html"
+        }
+      ]
     }
   },
   "best_price": 407.99,
   "best_source": "newegg",
   "best_title": "DATO 32GB (2x16GB) DDR5 5600MHz UDIMM desktop Memory RAM, PC5-44800, CL46, 1.1V, 288-Pin, Non-ECC, Unbuffered",
-  "best_url": "https://www.newegg.com/dato-32gb-2-x-16gb-5600-mhz-cas-latency-cl46-memory-system-specific-memory/p/2SJ-004V-00001?Item=9SIC1WRKPX0232&amp;cm_sp=SP-_-3099570-_-0-_-2-_-9SIC1WRKPX0232-_-32gb ddr5 ram-_-32gb|ddr5|ram-_-24"
+  "best_url": "https://www.newegg.com/dato-32gb-2-x-16gb-5600-mhz-cas-latency-cl46-memory-system-specific-memory/p/2SJ-004V-00001?Item=9SIC1WRKPX0232&amp;cm_sp=SP-_-3099570-_-0-_-2-_-9SIC1WRKPX0232-_-32gb ddr5 ram-_-32gb|ddr5|ram-_-18"
 }
