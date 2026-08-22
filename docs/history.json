@@ -340,5 +340,23 @@
     "source": "newegg",
     "cheapest": 407.99,
     "median": 519.99
+  },
+  {
+    "date": "2026-08-22",
+    "source": "amazon",
+    "cheapest": 384.99,
+    "median": 482.48
+  },
+  {
+    "date": "2026-08-22",
+    "source": "bh",
+    "cheapest": 449.99,
+    "median": 517.99
+  },
+  {
+    "date": "2026-08-22",
+    "source": "newegg",
+    "cheapest": 385.99,
+    "median": 509.99
   }
 ]
