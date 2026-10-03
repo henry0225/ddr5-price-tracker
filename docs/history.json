@@ -958,5 +958,11 @@
     "source": "newegg",
     "cheapest": 459.99,
     "median": 559.99
+  },
+  {
+    "date": "2026-10-03",
+    "source": "newegg",
+    "cheapest": 459.99,
+    "median": 550.97
   }
 ]

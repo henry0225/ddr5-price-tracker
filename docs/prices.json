@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-02T18:24:25+00:00",
+  "updated": "2026-10-03T17:15:55+00:00",
   "unit": "USD, 32GB (2x16GB) DDR5 kit",
   "sources": {
     "newegg": {
       "cheapest": 459.99,
-      "median": 559.99,
+      "median": 550.97,
       "count": 42,
       "cheapest_title": "Team T-Force Delta RGB 32GB (2 x 16GB) DDR5 5200 (PC5 41600) Desktop Memory Model FF3D532G5200HC40CDC01",
       "cheapest_url": "https://www.newegg.com/team-group-t-force-delta-rgb-32gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820331810",
@@ -15,14 +15,14 @@
           "url": "https://www.newegg.com/team-group-t-force-delta-rgb-32gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820331810"
         },
         {
-          "price": 469.99,
-          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6400 (PC5 51200) Desktop Memory Model PVV532G640C32K Compatible with AMD / Intel Gen14 Only",
-          "url": "https://www.newegg.com/patriot-memory-viper-venom-rgb-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-matte-black/p/N82E16820225336?Item=N82E16820225336&amp;cm_sp=SP-_-2975243-_-0-_-2-_-20-225-336-_-32gb ddr5 ram-_-32gb|ram-_-12"
+          "price": 459.99,
+          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL36 1.25V SK Hynix Original IC Gaming Desktop Memory Module Black, for AMD EXPO (TMXSAO1660836KKK)",
+          "url": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl36-memory-desktop-memory/p/0RN-00MB-000V0"
         },
         {
-          "price": 479.99,
-          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module Black, for AMD EXPO TMXSAL1660830KWK",
-          "url": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory/p/0RN-00MB-000T5"
+          "price": 464.99,
+          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model PVVR532G560C36K",
+          "url": "https://www.newegg.com/patriot-memory-viper-venom-rgb-32gb-ddr5-5600-cas-latency-cl36-desktop-memory-matte-black/p/N82E16820225309?Item=N82E16820225309&amp;cm_sp=SP-_-2975243-_-0-_-2-_-20-225-309-_-32gb ddr5 ram-_-32gb|ram-_-24"
         },
         {
           "price": 479.99,
@@ -36,13 +36,13 @@
         },
         {
           "price": 479.99,
-          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVVR532G600C36K Compatible with AMD / Intel Gen14 Only",
-          "url": "https://www.newegg.com/patriot-memory-viper-venom-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-matte-black/p/N82E16820225310"
+          "title": "V-COLOR Manta XSky DDR5 32GB (2x16GB) 6000MHz CL30 SK Hynix IC RGB Gaming Desktop Memory Module Black, for AMD EXPO TMXSAL1660830KWK",
+          "url": "https://www.newegg.com/v-color-32gb-2-x-16gb-ddr5-6000-pc5-48000-cas-latency-cl30-memory-desktop-memory/p/0RN-00MB-000T5"
         },
         {
-          "price": 485.99,
-          "title": "DATO 32GB (2x16GB) DDR5 5600MHz UDIMM desktop Memory RAM, PC5-44800, CL46, 1.1V, 288-Pin, Non-ECC, Unbuffered",
-          "url": "https://www.newegg.com/dato-32gb-2-x-16gb-5600-mhz-cas-latency-cl46-memory-system-specific-memory/p/2SJ-004V-00001?Item=9SIC1WRKPX0232&amp;cm_sp=SP-_-3099570-_-0-_-2-_-9SIC1WRKPX0232-_-32gb ddr5 ram-_-32gb|ddr5-_-30"
+          "price": 479.99,
+          "title": "Patriot Viper Venom RGB 32GB (2 x 16GB) 288-Pin PC RAM DDR5 6000 (PC5 48000) Desktop Memory Model PVVR532G600C36K Compatible with AMD / Intel Gen14 Only",
+          "url": "https://www.newegg.com/patriot-memory-viper-venom-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-matte-black/p/N82E16820225310"
         },
         {
           "price": 489.99,
