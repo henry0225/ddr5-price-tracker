@@ -1204,5 +1204,11 @@
     "source": "amazon",
     "cheapest": 479.99,
     "median": 534.99
+  },
+  {
+    "date": "2026-11-11",
+    "source": "amazon",
+    "cheapest": 479.99,
+    "median": 529.0
   }
 ]
