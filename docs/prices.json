@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T20:19:37+00:00",
+  "updated": "2026-11-24T00:48:56+00:00",
   "unit": "USD, 32GB (2x16GB) DDR5 kit",
   "sources": {
     "newegg": {
@@ -9,10 +9,63 @@
       "kits": []
     },
     "amazon": {
-      "cheapest": null,
-      "median": null,
-      "count": 0,
-      "kits": []
+      "cheapest": 469.99,
+      "median": 549.99,
+      "count": 21,
+      "cheapest_title": "CORSAIR VENGEANCE RS DDR5 32GB (2 x 16GB) Up To 6000MHz AMD INTEL RAM",
+      "cheapest_url": "https://www.amazon.com/CORSAIR-VENGEANCE-6000MHz-Compatible-CML32GX5M2D6000Z38/dp/B0HC887B5X/ref=sr_1_3?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-3",
+      "kits": [
+        {
+          "price": 469.99,
+          "title": "CORSAIR VENGEANCE RS DDR5 32GB (2 x 16GB) Up To 6000MHz AMD INTEL RAM",
+          "url": "https://www.amazon.com/CORSAIR-VENGEANCE-6000MHz-Compatible-CML32GX5M2D6000Z38/dp/B0HC887B5X/ref=sr_1_3?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-3"
+        },
+        {
+          "price": 469.99,
+          "title": "PNY DDR5 32GB (2x16GB) 5600MHz CL46 Low Profile Desktop Memory Kit",
+          "url": "https://www.amazon.com/PNY-5600MHz-Profile-PC5-44800-Compatible/dp/B0H9589GCS/ref=sr_1_6?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-6"
+        },
+        {
+          "price": 474.99,
+          "title": "Acer Predator Pallas II DDR5 RAM 32GB (16GBx2) 6000MHz CL30 PC5-48000 Intel XMP 3.0 AMD EXPO Compatible Computer Memory, Black - BL.9BWWR.433",
+          "url": "https://www.amazon.com/Predator-6000MHz-PC5-48000-Compatible-Computer/dp/B0CRT28P29/ref=sr_1_11?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-11"
+        },
+        {
+          "price": 479.99,
+          "title": "Lexar Thor Z RGB DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL38 DRAM 288-Pin UDIMM",
+          "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NjY5NTMzOTI2NTM0MjU6MTc5NTQ4MTMzNzpzcF9hdGY6MzAxMjYxMDk2ODUyNjAyOjowOjo&url=%2FLexar-2x16GB-6000MHz-288-Pin-UDIMM%2Fdp%2FB0GSR1M4ZJ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA%26dib_tag%3Dse%26keywords%3D32gb%2Bddr5%2Bram%2Bdesktop%26qid%3D1795481337%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+        },
+        {
+          "price": 479.99,
+          "title": "CORSAIR VENGEANCE RGB RS DDR5 32GB (2 x 16GB) Up To 6000MHz AMD INTEL RAM",
+          "url": "https://www.amazon.com/CORSAIR-Vengeance-6000MHz-CL36-44-44-96-Computer/dp/B0GGJ79NR3/ref=sr_1_4?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-4"
+        },
+        {
+          "price": 479.99,
+          "title": "Lexar Thor Z RGB DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL38 DRAM 288-Pin UDIMM",
+          "url": "https://www.amazon.com/Lexar-2x16GB-6000MHz-288-Pin-UDIMM/dp/B0GSR1M4ZJ/ref=sr_1_9?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-9"
+        },
+        {
+          "price": 489.99,
+          "title": "Samsung 32GB DDR5 4800MHz PC5-38400 CL40 UDIMM 2Rx8 Dual Rank 1.1V Non-ECC DIMM 288-Pin Desktop Computer RAM Memory",
+          "url": "https://www.amazon.com/Samsung-4800MHz-PC5-38400-Non-ECC-Computer/dp/B0DTJHGH4G/ref=sr_1_15?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-15"
+        },
+        {
+          "price": 519.99,
+          "title": "CORSAIR VENGEANCE DDR5 32GB (2 x 16GB) Up To 6000MHz AMD INTEL RAM",
+          "url": "https://www.amazon.com/CORSAIR-Vengeance-6000MHz-Compatible-Computer/dp/B0CBRJ63RT/ref=sr_1_8?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-8"
+        },
+        {
+          "price": 529.0,
+          "title": "G.SKILL Flare X5 Series DDR5 RAM (AMD EXPO & Intel XMP 3.0) 32GB (2x16GB) Up to 6000MT/s* CL36-36-36-96 1.35V Desktop Computer Memory U-DIMM - Matte Black (F5-6000J3636F16GX2-FX5)",
+          "url": "https://www.amazon.com/G-Skill-288-Pin-CL36-36-36-96-Channel-F5-6000J3636F16GX2-FX5/dp/B0BFGB2D2Z/ref=sr_1_10?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-10"
+        },
+        {
+          "price": 540.2,
+          "title": "A-Tech Velocity RAM 32GB (2x16GB) DDR5 5600MHz (PC5-44800) XMP 3.0 UDIMM 1.1V Non-ECC DIMM 288-Pin Desktop Computer Gaming Memory - AV2K16G5D56X",
+          "url": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NjY5NTMzOTI2NTM0MjU6MTc5NTQ4MTMzNzpzcF9tdGY6MzAwODYwMzgyMzMzMDAyOjowOjo&url=%2FTech-Velocity-5600MHz-PC5-44800-Computer%2Fdp%2FB0D1J7WVLW%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA%26dib_tag%3Dse%26keywords%3D32gb%2Bddr5%2Bram%2Bdesktop%26qid%3D1795481337%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1"
+        }
+      ]
     },
     "microcenter": {
       "cheapest": null,
@@ -27,5 +80,8 @@
       "kits": []
     }
   },
-  "best_price": null
+  "best_price": 469.99,
+  "best_source": "amazon",
+  "best_title": "CORSAIR VENGEANCE RS DDR5 32GB (2 x 16GB) Up To 6000MHz AMD INTEL RAM",
+  "best_url": "https://www.amazon.com/CORSAIR-VENGEANCE-6000MHz-Compatible-CML32GX5M2D6000Z38/dp/B0HC887B5X/ref=sr_1_3?dib=eyJ2IjoiMSJ9.fBqJXyvIsToJl8zPk4X3AnlqZZL-_MnyJ0LNLdl4M9TtINCxa2Pzxkp7aJP6qzjeYx8ybHizVURT39qVm-y71B5sf5B30bPXPLPh6-v76S8umJpIonOaT7Oai8X3JbZ2cmh3WCasWl0ZkSD9MxveeemRGouuLELIyBCd30J0mgwsdobTehC3mUwkGw4W_Gemn3K15J5ueWCwgVg2oFenCiYLgWyOrqCnJl8SyEAVluA.YjwcyhDlrKYbimql0m5Qbmpf8OL7Qrbl5JwD50sTSwA&dib_tag=se&keywords=32gb+ddr5+ram+desktop&qid=1795481337&sr=8-3"
 }
